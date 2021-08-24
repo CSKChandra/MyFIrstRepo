@@ -7,6 +7,8 @@ public class Example2 {
 		System.out.println("Git Demo Pull Request");
 		System.out.println("One MOre chane");
 		System.out.println("");
+		System.out.println("soe more changes");
+		System.out.print("Fourth Change");
 	}
 
 }
