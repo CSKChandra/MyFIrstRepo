@@ -12,7 +12,7 @@ public class Example1 {
 		list.add(Boolean.TRUE);
 		System.out.println(list.size());
 		System.out.println(list.get(1) instanceof Boolean);
-		
+		System.out.println("My first Git COde setup");
 		
 	}
 
